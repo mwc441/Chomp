@@ -1,0 +1,6 @@
+Instructions on how to use Chomp (For Windows)
+1. Make sure you have Java installed on your computer
+2. Double-click on the Chomp.bat file
+3. Select your preferred playing size and have fun!
+
+If you have BlueJ Available, open up the Chomp.jar file, and create a new Game Object OR just run the main function then proceed with step 3 listed above!
